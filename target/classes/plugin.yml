@@ -1,0 +1,7 @@
+name: PVPCooldownBypass
+version: 1.0-SNAPSHOT
+main: com.tinaking.PVPCooldownBypass
+api-version: 1.13
+load: STARTUP
+authors: [TinaKing]
+description: Gives 1.8 PVP on 1.9-1.15.2
